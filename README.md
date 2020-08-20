@@ -18,13 +18,18 @@
 
 ## 📜📏 여태 무슨 공부를 했는가❔❔
 <br>
+
 ### 1일차
 <br>
 👉👉 [VS-Code-Setting](https://www.notion.so/VS-Code-Setting-1bdacfb9ed22492aa8f60c30d126bdb9)<br><br>
 👉👉 [1일차-html](https://www.notion.so/1-10-d7a4886b73904e63bfd5301ff02688d6)<br><br>
 👉👉 [1일차-css](https://www.notion.so/1-CSS-13b5caf96c334a66940aa10cbfbec57a)<br><br>
+
 <br>
+
 ### 2일차
+
 <br><br>
+
 ### 출저 
 https://www.behance.net/gallery/88074239/Midnight-In-The-Valley?tracking_source=project_owner_other_projects
