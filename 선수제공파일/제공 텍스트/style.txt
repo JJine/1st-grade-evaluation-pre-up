@@ -1,0 +1,16 @@
+
+네비게이션 hover -> border-bottom: 4px solid #61647A;
+
+readmore버튼 '→' -> color: #867789
+
+readmore버튼 hover -> background: #2f2e38;
+
+특집 기사 영역 사진 텍스트 -> color: rgb(129, 129, 19); 
+
+꾸러미 영역 바탕 배경색 -> background-color: #e6e6e6;
+
+꾸러미 영역 원 테두리색 -> border: 1px solid #38373F;
+
+톡 영역 메세지 보내기 버튼 -> background: #544045;
+
+footer 배경색 -> background-color: #41444B;
